@@ -1,0 +1,5 @@
+Temperature sensor - DS18B20
+Humidity sensor    - DHT22
+Barometric Pressure sensor - BMP280
+Ozone Gas Concentration Sensor - MQ2
+Telemetry - XBEE
